@@ -5,3 +5,7 @@ My name is Edd and I am a Software Engineer in Stockholm. Previously lived in Pa
 I am interested in how we can build software quickly and correctly in the age of LLMs and AI. 
 
 Always interested in chatting about tech, startups, or my hobbies: BJJ, chess, and gaming / boardgames.
+
+__________
+
+"robopsych" is short for Robopsychology, the job title from _I, Robot_ by Isaac Asimov. 
