@@ -15,7 +15,9 @@ jobs:
 
       - name: Run a one-line script
         run: |
+          echo " " >> README.md
           git config user.name robopsych
           git config user.email edd@robopsych.se
-          git commit --allow-empty -m "Always Green!"
+          git add .
+          git commit -m "Always green!"
           git push
